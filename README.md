@@ -35,4 +35,4 @@ O objetivo é resistir o máximo de tempo possível, acumulando pontos a cada in
 ![Estrutura no Firebase](Prints/BD.png)
 
 ## 🌐 Jogue Agora
-[**▶️ Play on Construct.net**]()
+[**▶️ Play on Construct.net**](https://www.construct.net/en/free-online-games/walking-dead-game-75983/bd70a3c7-3565-4f18-9930-ee49377a9303)
