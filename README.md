@@ -32,7 +32,7 @@ O objetivo é resistir o máximo de tempo possível, acumulando pontos a cada in
 ## 🖼️ Screenshots
 ![Gameplay](Prints/gameplay.png)
 ![Game Over](Prints/GameOver.jpg)
-![Estrutura no Firebase](Prints/BD.jpg)
+![Estrutura no Firebase](Prints/BD.png)
 
 ## 🌐 Jogue Agora
 [**▶️ Play on Construct.net**]()
